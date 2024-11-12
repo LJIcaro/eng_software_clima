@@ -1,12 +1,11 @@
 # Trabalho avaliativo semestral
-Apresentando a Desenvolvimento de Aplicações Rápidas em Python pertencente ao Departamento de TI do Centro Universitário Ruy Barbosa,como parte dos requisitos para obtençãode aprovação na disciplina.
-Professor: Roney Malaguti
+Apresentando a Desenvolvimento de Engenharia de Software pertencente ao Departamento de TI do Centro Universitário Ruy Barbosa,como parte dos requisitos para obtençãode aprovação na disciplina.
+Professor: Heleno Cardoso
 
 # Discentes
-Ruan Santos Müller de Almeida
-Alan Gabriel Silva Góes
-Icaro Lima de Jesus
-Larissa Souza
+-Ruan Santos Müller de Almeida
+-Alan Gabriel Silva Góes
+-Icaro Lima de Jesus
 
 
 # Dependencias pip para instalar antes de rodar o projeto (obs: Usar versão mais atualizada do python)
