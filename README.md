@@ -2,7 +2,7 @@
 Apresentando a Desenvolvimento de Engenharia de Software pertencente ao Departamento de TI do Centro Universitário Ruy Barbosa, como parte dos requisitos para obtençãode aprovação na disciplina.
 Professor: Heleno Cardoso
 
-# Sitete onde o projeto está hospedado:
+# Site onde o projeto está hospedado:
 * https://eng-software-clima-1.onrender.com/
 
 # Discentes
